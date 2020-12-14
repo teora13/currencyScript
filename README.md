@@ -1,4 +1,4 @@
-# currency_script
+# currencyScript
 :heavy_dollar_sign: Script parses info about currency on google page through html elements
 
 Script uses opened information on Google through a request with currency state.  
